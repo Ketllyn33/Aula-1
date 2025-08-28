@@ -1,7 +1,7 @@
-Css do cabeçalho
+
 .cabeçalho {
 background: linear-gradient(rgba(100, 149, 237, 0.5), rgba(100, 149, 237, 0.5)),
-url("../imagens/cozinha.jpg"); /* Separar gradiente e imagem de fundo */
+url("/imagens/08616fc93c261189bc9c384fa4b13b95\ \(1\).jpg"); /* Separar gradiente e imagem de fundo */
 background-size: cover; /* Para cobrir toda a área do cabeçalho com a imagem de fundo */
 background-position: center; /* Centraliza a imagem de fundo */
 width: 100%;
